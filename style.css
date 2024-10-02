@@ -28,3 +28,16 @@
     font-size:22px;
     color:darkslategrey;
 }
+.head{
+    background-color: aqua;
+    padding-top: 150px;
+    padding-left: 150px;
+    padding-right: 300px;
+    padding-bottom: 300px;
+    color:black;
+    font-weight: bold;
+    font-size: 30px;
+}
+.price{
+    color:green;
+}
