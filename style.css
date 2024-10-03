@@ -1,0 +1,30 @@
+.bar{
+    background-color: green;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 10px;
+}
+.b1{
+    background-color: white;
+    color:green;
+    border:none;
+    border-radius: 4px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    transition: font-size 0.8s;
+    margin-right:8px;
+}
+.b1:hover{
+    font-size:22px;
+    color:darkslategrey;
+}
